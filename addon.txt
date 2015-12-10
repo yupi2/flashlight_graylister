@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"name"         "Flashlight Graylister"
+	"version"      "1.0.0"
+	"author_name"  "ExigentGaming Dev Team"
+	"info"         "Disable or enable the flashlight on specified maps."
+}
